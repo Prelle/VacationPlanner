@@ -187,6 +187,7 @@ const Home = () => {
 
   return (
     <div>
+      <h1>THIS ISN'T THE PAGE YOU'RE LOOKING FOR</h1>
       <SearchBar
         destination={destination}
         setDestination={setDestination}
